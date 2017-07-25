@@ -1,5 +1,5 @@
 /*
-   This example code is in the public domain.
+   This code partly written by Youness LAHDILI is in the public domain.
 */
 
 #include <aJSON.h>
